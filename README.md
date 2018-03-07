@@ -5,3 +5,4 @@ The goal of this project is to use titanic dataset and apply unsupervised learni
 References- 
 https://www.datascience.com/blog/k-means-clustering
 http://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html
+https://medium.com/@iSunilSV/data-science-python-k-means-clustering-eed68b490e02 
